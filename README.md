@@ -20,5 +20,3 @@ I'm an **aspiring Data Analyst** passionate about turning raw data into actionab
 ---
 
 [![](https://visitcount.itsvg.in/api?id=itsdran\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
----

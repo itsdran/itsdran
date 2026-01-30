@@ -1,8 +1,8 @@
 ## About Me
 
-Hi, I'm **Dranoel**, my colleagues call me **Dran**!
+Hi, I'm **Dranoel**, but call me **Dran** for short!
 
-I call myself an IT Enthusiast as I'm in the process of learning which field I want to pursue. Right now, I am interested in **Full Stack Web Development**, **Software Development**, or **Data Analysis**. Regardless, I am staying in the IT field, there's so much to learn here!
+I call myself an IT Enthusiast as I'm in the exploring different fields I want to pursue. Right now, I am interested in **Full Stack Web Development**, **Software Development**, **Data Analysis**, and **Data Engineering**. Regardless, I am staying in the IT field, there's so much to learn here!
 
 **Currently Learning and Exploring:**
 
@@ -56,3 +56,5 @@ Outside of my career, I like going to cafes, gigs, and music festivals!
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
   <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>  
+
+

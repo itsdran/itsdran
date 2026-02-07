@@ -10,7 +10,7 @@ I call myself an IT Enthusiast as I'm in the exploring different fields I want t
   - MERN Stack
   - Django Framework
   - Vue.js
-  - PHP (Lavarel)
+  - PHP (Laravel)
 - **Data Analysis**
   - Python (Pandas and Numpy) and SQL
   - Data Analysis and Visualization (Power BI, Tableau, MS Excel) 

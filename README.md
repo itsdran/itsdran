@@ -2,8 +2,6 @@
 
 Hi, I'm **Dranoel**, but call me **Dran** for short!
 
-I call myself an IT Enthusiast as I'm in the exploring different fields I want to pursue. Right now, I am interested in **Full Stack Web Development**, **Software Development**, **Data Analysis**, and **Data Engineering**. Regardless, I am staying in the IT field, there's so much to learn here!
-
 I'm a Python Developer that builds automation workflows, be it **web development**, **data analysis**, or **ETL** processes. There's always a lot to learn and explore in this field!
 
 **Tech Stack**

@@ -4,16 +4,17 @@ Hi, I'm **Dranoel**, but call me **Dran** for short!
 
 I call myself an IT Enthusiast as I'm in the exploring different fields I want to pursue. Right now, I am interested in **Full Stack Web Development**, **Software Development**, **Data Analysis**, and **Data Engineering**. Regardless, I am staying in the IT field, there's so much to learn here!
 
-**Currently Learning and Exploring:**
+I'm a Python Developer that builds automation workflows, be it **web development**, **data analysis**, or **ETL** processes. There's always a lot to learn and explore in this field!
+
+**Tech Stack**
 
 - **Full Stack Web Development:**
   - MERN Stack
   - Django Framework
-  - Vue.js
-  - PHP (Laravel)
 - **Data Analysis**
-  - Python (Pandas and Numpy) and SQL
-  - Data Analysis and Visualization (Power BI, Tableau, MS Excel) 
+  - Python (Pandas and Numpy), SQL, and R Programming
+  - Data Analysis and Visualization (Power BI, Tableau, MS Excel)
+  - Apache Aiflow
 - **AI Workflow Automation:**
   - n8n
  
@@ -44,15 +45,10 @@ Outside of my career, I like going to cafes, gigs, and music festivals!
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-  <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-  <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
   <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
   <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>  
